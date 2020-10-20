@@ -1,1 +1,1 @@
-# kramig-has-emotions
+# renzhao_encouragement_bot
